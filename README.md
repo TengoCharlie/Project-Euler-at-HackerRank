@@ -6,8 +6,8 @@
 
 ```bash
 npm start (ENTER)
-2
-10
-100
+2 (t)
+10 (n)
+100 (n)
 (CTRL+D)
 ```
